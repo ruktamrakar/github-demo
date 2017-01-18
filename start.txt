@@ -4,3 +4,7 @@ dsldslkmdsf
 dsnldsflkmdfs
 dsfkldfskmldfs
 dffslkmdfskmldfslkm
+
+public static void main(String[] args) {
+	"Hello World"
+}
