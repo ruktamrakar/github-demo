@@ -1,4 +1,5 @@
-dskldskldfslkdfskmldfskml
-sddsflkdfskmldfslkm
-dfldsfdsl
-fdkjrkjfkj
+public class Yahoo {
+	public static void main(String[] args) {
+		
+	}
+}
